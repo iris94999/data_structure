@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;leetcode.twoSum.TwoSum(...)&apos;&#x0D;&#x0A;- Original project: &apos;leetcode&apos;&#x0D;&#x0A;- Destination element: &apos;leetcode.twoSum.TwoSum(...)&apos;&#x0D;&#x0A;- Original element: &apos;leetcode.twoSum.main(...)&apos;" description="Copy method" destination="/src&lt;leetcode{twoSum.java[twoSum~TwoSum~\[I~I" element1="/src&lt;leetcode{twoSum.java[twoSum~main~\[QString;" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1514792302476" version="1.0"/>
+</session>
